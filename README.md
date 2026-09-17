@@ -1,6 +1,6 @@
 # Popover Widget (Pure JS)
 
-![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/<Ekaterina-siryk>/<https://github.com/Ekaterina-siryk/Html>/actions/workflows/web.yml/badge.svg)
 
 Виджет поповера на чистом JavaScript без внешних библиотек и jQuery.
 
