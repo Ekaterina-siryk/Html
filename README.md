@@ -13,7 +13,7 @@
 Виджет всегда должен показываться сверху. У popover'а обязательно должно быть название и текст. Центрироваться он обязательно должен по горизонтали относительно элемента, который вызвал popover. Позиционирование реализовано в пикселях (`px`) без использования `translate`.
 
 ##  Ссылки
-* **Демо-страница:** []()
+* **Демо-страница:** [https://ekaterina-siryk.github.io/Html/](https://ekaterina-siryk.github.io/Html/)
 * **Репозиторий:** [https://github.com/Ekaterina-siryk/Html.git](https://github.com/Ekaterina-siryk/Html.git)
 
 ##  Особенности реализации
